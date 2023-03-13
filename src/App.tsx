@@ -21,7 +21,7 @@ function App() {
           <ul>
             <li>Stellar Menus</li>
             <li>Scaling up</li>
-            <li>Goverment-platform for stolen vehicles tracking</li>
+            <li>Goverment-platform</li>
             <li>To-Do App</li>
           </ul>
         </section>
