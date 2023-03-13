@@ -23,6 +23,7 @@ body, input, textarea, button, select {
 /* set the color of links to a different color */
 a {
   color: #8fa0a8;
+  text-decoration: none
 }
 
 /* set the color of visited links to a different color */
