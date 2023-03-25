@@ -1,5 +1,6 @@
 html, body {
   height: 100%;
+  width: 100%;
 }
 
 /* set the background color of the body to black */
@@ -79,10 +80,19 @@ option {
 
 section{
   padding: 10px;
+  border: 1px dotted blue;
 }
 
 ul, ol {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+nav{
+  border: 1px dotted yellow
+}
+
+footer{
+  border: 1px dotted white
 }
